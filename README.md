@@ -1,2 +1,1 @@
-# titanovate.com
-titanovate.com
+# [titanovate.com](https://titanovate.com)
